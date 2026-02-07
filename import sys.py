@@ -11,4 +11,9 @@ print(".........................................................................
         temp = []
         for j in range(cols)
         if temp [j] == " " or temp [j] == " ":
+            sys.exist(
+                "Name is a manditory field. process due to blank")
+            if j == 2;
+            temp.append(str(input("Enter email adress:")))
+            if temp [j]
             
